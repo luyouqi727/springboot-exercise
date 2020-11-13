@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="497b098d-13b8-43ae-a802-76ed8b8f7b4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jMI4BDbl6QQp7InktHYciOuYtF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\templates\emp" />
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\templates\common" />
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\templates\error" />
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\templates" />
+      <recent name="F:\workplace\java\idea\springboot-exercise\src\main\resources\templates\emp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootExerciseApplication">
+    <configuration name="SpringboorExerciseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-exercise" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yog.SpringboorExerciseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootExerciseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-exercise" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yog.SpringbootExerciseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497b098d-13b8-43ae-a802-76ed8b8f7b4d" name="Default Changelist" comment="" />
+      <created>1603607340338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603607340338</updated>
+      <workItem from="1603607356838" duration="241000" />
+      <workItem from="1603607794393" duration="979000" />
+      <workItem from="1603608869780" duration="3661000" />
+      <workItem from="1603612814969" duration="14000000" />
+      <workItem from="1603627735420" duration="40000" />
+      <workItem from="1603715394508" duration="8001000" />
+      <workItem from="1603774518946" duration="88000" />
+      <workItem from="1604128178131" duration="2163000" />
+      <workItem from="1605253357141" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603617485923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603617485923" />
+    <state x="958" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1603621805568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603621805568" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1605254153565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605254153565" />
+    <state x="589" y="326" width="382" height="172" key="Github.CreateGistDialog" timestamp="1605253653531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="326" width="382" height="172" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1605253653531" />
+    <state x="607" y="303" key="Github.ShareDialog" timestamp="1605253924577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="607" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605253924577" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.1.center" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.1.left" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="1493" height="209" key="GridCell.Tab.1.right" timestamp="1603724974039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603724974039" />
+    <state width="723" height="43" key="GridCell.Tab.2.bottom" timestamp="1603627375992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="43" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603627375992" />
+    <state width="723" height="43" key="GridCell.Tab.2.center" timestamp="1603627375992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="43" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1603627375992" />
+    <state width="723" height="43" key="GridCell.Tab.2.left" timestamp="1603627375992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="43" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1603627375992" />
+    <state width="723" height="43" key="GridCell.Tab.2.right" timestamp="1603627375992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="43" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1603627375992" />
+    <state x="414" y="123" key="RollbackChangesDialog" timestamp="1605254196504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605254196504" />
+    <state x="272" y="53" key="SettingsEditor" timestamp="1605253882864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="53" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605253882864" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605254171177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605254171177" />
+    <state x="833" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1605253413894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="833" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605253413894" />
+    <state x="831" y="145" width="642" height="534" key="find.popup" timestamp="1603624397813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="831" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603624397813" />
+    <state x="537" y="204" key="git4idea.merge.GitPullDialog" timestamp="1605254180675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1605254180675" />
+    <state x="809" y="190" width="672" height="677" key="run.anything.popup" timestamp="1603721407046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603721407046" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603720804685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603720804685" />
+  </component>
+</project>
